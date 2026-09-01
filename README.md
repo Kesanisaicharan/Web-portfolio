@@ -1,233 +1,196 @@
-# 👋 Kesani Sai Charan
+# Kesani Sai Charan
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Engineer-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer-Vision-111827?style=for-the-badge" />
+  <strong>AI/ML Engineer · Full-Stack Developer · Computer Vision</strong>
 </p>
 
 <p align="center">
-  <strong>Building intelligent products that turn ideas into working software.</strong>
+  <em>Building practical AI systems and turning them into usable products.</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kesanisaicharan">GitHub</a> •
-  <a href="https://www.linkedin.com/search/results/all/?keywords=kesani%20sai%20charan">LinkedIn</a> •
+  <a href="https://github.com/Kesanisaicharan">GitHub</a> ·
+  <a href="https://www.linkedin.com/search/results/all/?keywords=kesani%20sai%20charan">LinkedIn</a> ·
   <a href="mailto:kesanisaicharan52@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧑‍💻 Who I Am
+## Profile
 
-I'm **Kesani Sai Charan**, a Computer Science graduate from **Vellore Institute of Technology (VIT), Vellore**, focused on **AI/ML, Generative AI, computer vision, and full-stack development**.
+Computer Science graduate from **Vellore Institute of Technology (VIT), Vellore)** with hands-on experience across **AI/ML, Generative AI, computer vision, data analytics, and full-stack development**.
 
-I like building systems end-to-end — understanding the problem, designing the architecture, training or integrating intelligent models, building the application layer, and deploying a usable product.
+I focus on building systems end-to-end: understanding the problem, designing the architecture, implementing models and APIs, integrating the user experience, measuring performance, and deploying the result.
 
-My work spans **RAG and multi-agent applications, recommendation systems, generative models, computer-vision pipelines, analytics, and full-stack products**.
-
-### ⚡ Quick Snapshot
-
-- 🎓 **B.Tech — Computer Science**, VIT Vellore
-- 💼 **Data Analytics Intern**, Unessa Foundation INDIA Pvt. Ltd. · Jan–Jun 2026
-- 🏆 **Amazon ML Challenge 2026 — Top 10%**
-- 🤖 AI/ML + GenAI + Computer Vision
-- 💻 Python + Java + C/C++ + Full-Stack Development
-- 🚀 Experience taking projects from **prototype → deployment**
+My strongest interests are **RAG, LLM applications, multi-agent systems, computer vision, intelligent automation, and production-oriented software engineering**.
 
 ---
 
-## 📈 Impact & Results
+## Impact at a Glance
 
-> **40% faster** document data-extraction pipeline
->
-> **92% mAP** real-time dashboard indicator detection
->
-> **85% accuracy** bike-orientation classification
->
-> **20% improvement** in low-light image classification
->
-> **Top 10%** in Amazon ML Challenge 2026
-
-These are outcomes from hands-on project and internship work rather than just technology exposure.
+| | Result |
+|---|---|
+| **Document processing** | **40%** improvement in data-extraction efficiency |
+| **Dashboard detection** | **92% mAP** with an SSD-based real-time detector |
+| **Bike orientation** | **85% accuracy** with a custom YOLO model |
+| **Low-light classification** | **20% accuracy improvement** through model fine-tuning |
+| **Amazon ML Challenge** | **473 / 4,800+ teams · Top 10%** |
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Data Analytics Intern — Unessa Foundation INDIA Pvt. Ltd.
-**Jan 2026 – Jun 2026 · Remote**
+**Jan 2026 – Jun 2026 · Remote, India**
 
-Worked on computer vision, OCR, image classification, and automated data-extraction workflows.
+Worked on applied computer vision, OCR, image classification, and automated data-processing systems.
 
-**Key contributions:**
-
-- ⚙️ Optimized document data-extraction pipelines by **40%** using **YOLOv10, Google OCR, and custom regex patterns**.
-- 🚲 Developed a YOLO-based bike-orientation classifier reaching **85% accuracy** for automated vehicle-damage assessment.
-- 🌙 Improved low-light image-classification accuracy by **20%** through fine-tuning **EfficientNet-B3 and MobileNetV2**.
-- 🚘 Built an SSD-based real-time car-dashboard indicator detector achieving **92% mAP**.
+- Optimized an end-to-end document classification and extraction pipeline using **YOLOv10, Google OCR, and custom regex**, improving processing efficiency by **40%**.
+- Developed a custom **YOLO-based bike-orientation classifier** achieving **85% accuracy** for automated vehicle-damage assessment.
+- Fine-tuned **EfficientNet-B3 and MobileNetV2** models, improving low-light image classification accuracy by **20%**.
+- Designed and deployed an **SSD-based real-time car dashboard indicator detector**, achieving **92% mAP**.
 
 ---
 
-# 🚀 Featured Work
+# Selected Projects
 
-## 🧠 MindForgeAI — AI-Powered Learning Platform
+## MindForge AI — Enterprise RAG & Multi-Agent Orchestrator
 
-**React · Vite · Node.js · Express · MongoDB · Groq/LLaMA · Supabase · Vercel · Render**
+**Python · LangChain · Llama-3 · Pinecone · LangGraph · FastAPI · Streamlit · Docker · AWS**
 
-image_group{"layout":"carousel","aspect_ratio":"16:9","query":["AI learning platform dashboard UI","AI course generator web application dashboard","online learning platform quiz dashboard"],"num_per_query":1}
+An AI system combining **retrieval-augmented generation with specialized agents** for research and code-execution workflows.
 
-A full-stack AI learning platform that transforms a user's topic into a structured learning experience.
+**Engineering highlights**
+- Built a RAG pipeline with **LangChain + Llama-3 + Pinecone**, achieving **94% retrieval accuracy** and reducing document search time by **60%**.
+- Integrated **LangGraph** to orchestrate specialized agents, improving task-execution accuracy by **35%**.
+- Developed a low-latency interface with **FastAPI and Streamlit**.
+- Containerized the application with **Docker** and designed it for deployment on **AWS ECS**.
 
-**What it does:**
-
-`Topic → AI Course → Quiz → Evaluation → Certificate → Email → Dashboard`
-
-**Engineering highlights:**
-- 🤖 Dynamic course generation using **Groq API + LLaMA models**
-- 📝 AI-generated quizzes with scoring and immediate feedback
-- 🔐 Google OAuth using **Supabase**
-- 🗄️ Persistent user/course data with **MongoDB + Mongoose**
-- 🎓 Dynamic certificate generation
-- 📧 Completion notifications through **Resend API**
-- ☁️ Decoupled frontend/backend deployment using **Vercel + Render**
-- 🧩 Modular backend architecture following an MVC-style structure
-
-urlView MindForgeAI on GitHubhttps://github.com/Kesanisaicharan/MindForgeAI · urlLive Demohttps://mind-forge-ai-apjm.vercel.app/
+urlView the MindForge AI repositoryhttps://github.com/Kesanisaicharan/MindForgeAI
 
 ---
 
-## 🚨 RESQROUTE-AI — Emergency Decision Support
+## Automatic G-Form Filler — RAG + Browser Automation
 
-**AI · Routing · Decision Support**
+**Python · Gemini 2.5 Flash · LangChain · FAISS · Selenium · RAG**
 
-An AI-oriented emergency-routing project designed around rapid identification of suitable emergency services and route decisions.
+An end-to-end automation system that extracts information from **PDF, DOCX, and TXT documents** and uses grounded RAG responses to automatically answer Google Forms.
 
-The project reflects my interest in building **technology for time-sensitive real-world problems**, where the system needs to convert information into actionable decisions.
+**Engineering highlights**
+- Built a **Gemini 2.5 Flash + LangChain + FAISS** RAG pipeline for document-grounded answers.
+- Implemented Selenium automation with **retry logic** for major Google Form question types.
+- Added custom HTML parsing and logic to **skip questions when reliable evidence is unavailable**, improving automation reliability.
 
-urlView RESQROUTE-AI on GitHubhttps://github.com/Kesanisaicharan/RESQROUTE-AI
+urlView the GFORM_FILTER repositoryhttps://github.com/Kesanisaicharan/GFORM_FILTER
 
 ---
 
-## 🎬 Content-Based Recommendation Engine
+## RESQROUTE-AI — Emergency Routing & Decision Support
 
-**Python · Pandas · NumPy · Scikit-learn · TF-IDF · Cosine Similarity**
+A practical AI-oriented emergency-routing concept focused on helping users make faster decisions around **emergency services and route selection**.
 
-A recommendation engine that finds similar movies from metadata such as genre, cast, and plot keywords.
+The project reflects my interest in applying software and AI to **time-sensitive, real-world problems** rather than building only demonstration models.
+
+urlView RESQROUTE-AIhttps://github.com/Kesanisaicharan/RESQROUTE-AI
+
+---
+
+## Content-Based Movie Recommendation Engine
+
+**Python · Scikit-learn · Pandas · NumPy · TF-IDF · Cosine Similarity**
+
+Built a content-based recommendation pipeline that converts movie metadata into feature profiles and ranks similar titles.
 
 **Pipeline:**
 
-`Movie Metadata → Text Representation → TF-IDF → Cosine Similarity → Ranked Recommendations`
+`Metadata → TF-IDF Representation → Cosine Similarity → Ranked Top-10 Recommendations`
 
-urlView Recommendation System on GitHubhttps://github.com/Kesanisaicharan/Content_based_Recommendation_System
+urlView the recommendation systemhttps://github.com/Kesanisaicharan/Content_based_Recommendation_System
 
 ---
 
-## 🧬 Generative Adversarial Network
+## Number Image Generation Using GANs
 
 **Python · TensorFlow · Keras · NumPy · Matplotlib**
 
-Implemented a GAN trained on **MNIST** to generate synthetic handwritten-digit images, demonstrating the fundamentals of adversarial training and generative modeling.
+Implemented and fine-tuned a **GAN on MNIST** to synthesize handwritten-digit images, with model quality evaluated through visual inspection and quantitative image-quality measures.
 
-urlView GAN Project on GitHubhttps://github.com/Kesanisaicharan/-Generative-Adversarial-Network
-
----
-
-## 🔭 AstroCircle — AstroLive Hackathon 2026
-
-**React · Vite**
-
-A responsive product prototype built around social compatibility, daily readings, shareable experiences, streaks, and engagement loops.
-
-urlView AstroCircle on GitHubhttps://github.com/Kesanisaicharan/astrocircle-astrolive-hackathon-2026 · urlLive Prototypehttps://kesanisaicharan.github.io/astrocircle-astrolive-hackathon-2026/
+urlView the GAN projecthttps://github.com/Kesanisaicharan/-Generative-Adversarial-Network
 
 ---
 
-## 📦 SupplyLens AI
+## SupplyLens AI
 
 **Java · Spring Boot · JPA/Hibernate · MySQL**
 
-A supply-chain intelligence concept focused on **dependency mapping and explainable structural risk analysis**.
-
-The architecture connects supplier, material, and facility relationships to surface risks such as concentration, criticality, geographic exposure, and alternate-source availability.
+A supply-chain intelligence concept designed around **dependency mapping and explainable structural risk analysis**, connecting supplier, material, and facility relationships to surface concentration, criticality, geographic, and alternate-source risks.
 
 ---
 
-# 🛠️ Technical Arsenal
+## Technical Stack
 
-### Programming
-`Python` `Java` `C` `C++` `DSA` `OOP`
+**Languages**  
+Python · Java · C · C++
 
-### AI / Machine Learning
-`PyTorch` `TensorFlow` `Scikit-learn` `Computer Vision` `OCR` `YOLO` `EfficientNet` `MobileNetV2` `SSD`
+**AI / ML**  
+PyTorch · TensorFlow · Scikit-learn · Computer Vision · YOLO · OCR · OpenCV · EfficientNet · MobileNetV2 · SSD
 
-### Generative AI
-`RAG` `LLaMA` `LangChain` `LangGraph` `Vector Databases` `Multi-Agent Systems`
+**Generative AI**  
+RAG · Llama · LangChain · LangGraph · Vector Databases · Multi-Agent Systems
 
-### Data & Databases
-`Pandas` `NumPy` `SQL` `MySQL` `MongoDB` `Mongoose`
+**Data & Databases**  
+Pandas · NumPy · SQL · MySQL · MongoDB
 
-### Full Stack
-`React` `JavaScript` `TypeScript` `Node.js` `Express` `HTML` `CSS`
+**Full Stack**  
+React · JavaScript · TypeScript · Node.js · Express · HTML · CSS · FastAPI
 
-### Cloud & Tools
-`AWS` `Vercel` `Render` `Streamlit` `Git` `GitHub` `VS Code` `Cursor`
+**Cloud & Tools**  
+AWS · Vercel · Render · Streamlit · Git · GitHub · Docker · VS Code · Cursor
+
+**CS Fundamentals**  
+Data Structures & Algorithms · OOP · DBMS · Operating Systems
 
 ---
 
-# 🏆 Achievement
+## Achievement
 
 ### Amazon ML Challenge 2026
 
-**Rank: 473 / 4,800+ teams · Top 10%**
+**473 / 4,800+ teams — Top 10%**
 
-Participated in a national-level machine-learning competition focused on predictive modeling, finishing among the top-performing teams.
-
----
-
-# 🧩 How I Approach Engineering
-
-```text
-Problem
-   ↓
-Understand the user + constraints
-   ↓
-Design the architecture
-   ↓
-Build the smallest useful solution
-   ↓
-Integrate models / APIs / data
-   ↓
-Test + measure
-   ↓
-Deploy
-   ↓
-Iterate
-```
-
-I care about more than making a demo work. I aim to understand **why it works, how it can scale, and how the user actually benefits from it**.
+Secured a top-10% rank in a national-level machine-learning competition focused on predictive modeling.
 
 ---
 
-# 🎯 Currently Exploring
+## Engineering Approach
 
-- Generative AI applications
-- RAG architectures
-- Multi-agent systems
+I try to keep the development loop simple:
+
+**Understand → Design → Build → Measure → Deploy → Improve**
+
+The goal is not just to make a model or prototype work, but to understand its **trade-offs, measurable performance, integration points, and path toward a reliable product**.
+
+---
+
+## Currently Exploring
+
+- Generative AI and LLM applications
+- Retrieval-Augmented Generation
+- Multi-agent architectures
 - Computer vision and intelligent automation
-- Production-ready full-stack systems
-- AI-powered developer and business tools
+- Production-ready AI systems
+- Full-stack product engineering
 
 ---
 
-# 📫 Let's Connect
+## Contact
+
+**GitHub:** https://github.com/Kesanisaicharan  
+**LinkedIn:** https://www.linkedin.com/search/results/all/?keywords=kesani%20sai%20charan  
+**Email:** kesanisaicharan52@gmail.com
+
+---
 
 <p align="center">
-  <a href="https://github.com/Kesanisaicharan"><strong>GitHub</strong></a> ·
-  <a href="https://www.linkedin.com/search/results/all/?keywords=kesani%20sai%20charan"><strong>LinkedIn</strong></a> ·
-  <a href="mailto:kesanisaicharan52@gmail.com"><strong>Email</strong></a>
-</p>
-
-<p align="center">
-  <em>Build useful things. Measure what matters. Keep learning. 🚀</em>
+  <strong>Build with purpose. Measure the result. Keep improving.</strong>
 </p>
